@@ -47,6 +47,3 @@ Training accuracy: ~65% (10 epochs)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Author: Ayberk Caf
-Date: 2025
